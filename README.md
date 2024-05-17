@@ -1,3 +1,6 @@
+
+![Blue and Black Modern Cybersecurity LinkedIn Banner](https://github.com/Miguelangel-lf/Miguelangel-lf/assets/155157447/d84c3403-3980-4a8f-9bf0-3129a0136860)
+
 ✨ #Contad, oh musas, y decidme si es ventura, ingenio o locura la que a este hidalgo programador guía por los senderos de la modernidad tecnológica. Yo, Miguel López, con ardiente pasión y corazón firme, me aventuro en la vasta llanura de la tecnología, deseando crear soluciones que en poder y eficiencia sean dignas de epopeya.
 
 💻 En constante búsqueda de conocimientos, cual caballero andante en pos de aventuras, me esfuerzo por mantenerme en la cúspide del desarrollo. Valeroso y trabajador, no hay desafío que me arredre, enfrentando con noble sacrificio y determinación cualquier obstáculo que se presente.
