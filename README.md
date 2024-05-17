@@ -34,13 +34,13 @@
 
 ## GitHub Analytics
 <a href="https://github.com/noaregui">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noaregui&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangel-lf&theme=dark" />
 </a>
 <a href="https://github.com/noaregui">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=noaregui&show_icons=true&theme=dark" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelangel-lf&show_icons=true&theme=dark" alt="Dave's github stats"/>
 </a>
 <a href="https://github.com/noaregui">
-<img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=noaregui&theme=dark" />
+<img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelangel-lf&theme=dark" />
 </a>
 
 
