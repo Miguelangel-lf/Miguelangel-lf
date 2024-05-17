@@ -10,3 +10,5 @@
 📚 Gusto tengo en compartir mis conocimientos, pues sé bien que el saber, al ser compartido, se enriquece y multiplica, cual tesoro descubierto y repartido entre buenos amigos.
 
 🎨 Y no menos es mi amor por la literatura universal y el arte, fuentes inagotables de inspiración que elevan mi espíritu creador. Con la mente siempre poblada de nuevas ideas, cual molinos en el horizonte manchego, busco incansablemente mejorar y dar vida a innovaciones que dejen huella en el mundo.
+
+🚀 LENGUAJES
